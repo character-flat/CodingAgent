@@ -1,0 +1,3 @@
+Hello, I am the coding agent!
+Working on: Build me a simple web page with a button
+Implementation goes here

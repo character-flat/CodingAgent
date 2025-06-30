@@ -1,0 +1,17 @@
+{
+  "name": "Coding Agent Environment",
+  "dockerFile": "../Dockerfile",
+  "forwardPorts": [6080, 8000, 8888],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  },
+  "remoteUser": "codeuser"
+}

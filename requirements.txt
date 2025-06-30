@@ -1,0 +1,23 @@
+# API and Web Server
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.7
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.1
+
+# Visualization
+matplotlib==3.7.1
+graphviz==0.20.1
+
+# Jupyter Environment
+jupyterlab==4.0.0
+notebook==6.5.4
+
+# Development Tools
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Code Execution
+ipython==8.13.2
